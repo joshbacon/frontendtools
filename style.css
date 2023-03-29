@@ -1,0 +1,129 @@
+:root {
+    --bg1: #12181B;
+    --bg2: #1B182B;
+    --title: #252525;
+    --link: #353535;
+    --card: #303030;
+
+    --ow: #E9E9E9;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Oswald', sans-serif;
+}
+
+html {
+    display: grid;
+    place-items: center;
+}
+
+body {
+    width: 95%;
+    height: 100%;
+    overflow-x: hidden;
+    margin-top: 2rem;
+    scroll-behavior: smooth;
+
+    display: grid;
+    gap: 1.5rem;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    place-items: center;
+
+    color: var(--ow);
+    background-color: var(--bg1);
+    background: linear-gradient(176deg, var(--bg1) 50%, var(--bg2) 100%);
+    background-attachment: fixed;
+}
+
+::-webkit-scrollbar {
+    width: 0.375rem;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--bg1);
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 0.125rem;
+    background: rgb(69, 78, 86);
+}
+
+::-webkit-scrollbar-thumb:hover {
+    border-radius: 0.125rem;
+    background: rgb(79, 88, 96);
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    width: clamp(300px, 100%, 25rem);
+    background-color: var(--card);
+    margin: 0.5em 0;
+    border-radius: 0.75rem;
+    overflow: hidden;
+
+    transition: 0.5s;
+}
+
+section:hover {
+    box-shadow: #0208141a 0px 0.35em 1.175em, #02081414 0px 0.175em 0.5em;
+}
+
+.span-2 {
+    grid-row: span 2 / auto;
+}
+.span-3 {
+    grid-row: span 3 / auto;
+}
+.span-4 {
+    grid-row: span 4 / auto;
+}
+.span-5 {
+    grid-row: span 5 / auto;
+}
+
+h1 {
+    width: 100%;
+    font-size: 2rem;
+    text-align: center;
+    background-color: var(--title);
+}
+
+ul {
+    list-style-type: none;
+    display: grid;
+}
+
+/* li {
+
+} */
+
+a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 1rem;
+    padding: 0.5rem;
+    height: 50px;
+
+    color: #fff;
+    background-color: var(--link);
+    text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+p {
+    padding: 1rem;
+}
+
+.disclaimer {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}

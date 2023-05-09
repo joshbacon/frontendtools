@@ -6,6 +6,7 @@
     --card: #303030;
 
     --ow: #E9E9E9;
+    --dw: #c9c9c9;
 }
 
 * {
@@ -96,10 +97,6 @@ ul {
     display: grid;
 }
 
-/* li {
-
-} */
-
 a {
     display: flex;
     align-items: center;
@@ -120,6 +117,7 @@ img {
 
 p {
     padding: 1rem;
+    color: var(--dw);
 }
 
 .disclaimer {

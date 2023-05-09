@@ -13,75 +13,61 @@
 ## UI Elements
 
 ### [uiverse](https://uiverse.io/)
-> Description: 
-> This is what the site does
+> Open source library of themed UI elements with source code.
 
 ### [Semantic UI](https://semantic-ui.com/)
-> Description: 
-> This is what the site does
+> Framework for creating themes, UI elements, and layouts.
 
 
 ## Animation
 
 ### [Jitter](https://jitter.video/)
-> Description: 
-> This is what the site does
+> Collaborative animation creation complete with templates.
 
 ### [Animate.css](https://animate.style/)
-> Description: 
-> This is what the site does
+> Package with lots of prebuilt animations.
 
 ### [FINISHER](https://finisher.co/lab/header/)
-> Description: 
-> This is what the site does
+> Customizable animated headers.
 
 
 ## Assets
 
 ### [flaticon](https://www.flaticon.com/)
-> Description: 
-> This is what the site does
+> Millions of free vector icons.
 
 ### [Pexels](https://www.pexels.com/)
-> Description: 
-> This is what the site does
+> Free stock photos and videos.
 
 ### [INDIEGROUND](https://indieground.net/)
-> Description: 
-> This is what the site does
+> Design resources and insporation.
 
 
 ## Shapes and Patterns
 
 ### [softr](https://www.softr.io/tools/svg-shape-generator)
-> Description: 
-> This is what the site does
+> SVG blob generator.
 
 ### [Super Designer](https://superdesigner.co/)
-> Description: 
-> This is what the site does
+> Pattern, shape, and background generator.
 
 
 ## Frameworks
 
 ### [Foundation](https://get.foundation/)
-> Description: 
-> This is what the site does
+> Frontend framework focusing on responsiveness.
 
 ### [Bulma](https://bulma.io/)
-> Description: 
-> This is what the site does
+> Open source frontend framework with prebuilt components.
 
 
 ## Extensions
 
 ### [Mobile First](https://www.webmobilefirst.com/en/)
-> Description: 
-> This is what the site does
+> Mobile simulator to test sites.
 
 
 ## Programs
 
 ### [Responsively](https://responsively.app/)
-> Description: 
-> This is what the site does
+> Build responsive web applications across multiple screen sizes simultaneously.

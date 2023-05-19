@@ -8,7 +8,7 @@ Check out the site [Here](https://joshbacon.github.io/frontendtools/).
 
 |[UI Elements](#ui-elements)|[Animation](#animation)|[Assets](#assets)|[Shapes & Patterns](#shapes-and-patterns)|
 |--|--|--|--|
-|[Frameworks](#frameworks)|[Extensions](#extensions)|[Programs](#programs)||
+|[Frameworks](#frameworks)|[Extensions](#extensions)|[Programs](#programs)|[CSS Generators](#css-generators)|
 
 </td></tr> </table>
 

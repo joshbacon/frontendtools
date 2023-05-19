@@ -73,3 +73,12 @@ Check out the site [Here](https://joshbacon.github.io/frontendtools/).
 
 ### [Responsively](https://responsively.app/)
 > Build responsive web applications across multiple screen sizes simultaneously.
+
+
+## CSS Generators
+
+### [Text Shadow CSS Generator](https://html-css-js.com/css/generator/text-shadow/)
+> Customize text shadows and copy the generated CSS code.
+
+### [Box Shadow CSS Generator](https://cssgenerator.org/box-shadow-css-generator.html)
+> Customize box shadows and copy the generated CSS code.
